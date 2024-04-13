@@ -2,12 +2,12 @@
     "name": "BoboiBotz-tele",
     "version": "1.0.0",
     "description": "Bot versi telegram",
-    "main": "index.js",
+    "main": "main.js",
     "directories": {
         "lib": "lib"
     },
     "scripts": {
-        "start": "node index.js"
+        "start": "node main.js"
     },
     "keywords": [
         "telegram",
